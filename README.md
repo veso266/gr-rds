@@ -37,4 +37,3 @@ http://www.youtube.com/watch?v=ukhrIl4JHbw
 ### History
 
 Continuation of gr-rds on BitBucket (originally from Dimitrios Symeonidis https://bitbucket.org/azimout/gr-rds/ and also on CGRAN https://www.cgran.org/wiki/RDS).
-
